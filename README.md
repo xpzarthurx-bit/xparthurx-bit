@@ -1,19 +1,9 @@
-# tuff explaination 
-
-ts is a subdomain vruh
-
-# why did i create ts shit? 
-
-idk bro
-
-# features 
-
-.......
-
-# how to use ts thing
-
-idk bro ts is a website made only using html :pray:
-
-# D author
-
-notreal0012 (discord, Youtube, MC, anything).
+<!DOCTYPE html>
+<html lang="en">
+<head> <title>Epstein Island</title> </head
+<body> 
+<h1>Twin im not gay</h1>
+<p> i hab watched only one romance anime and puked after that. (jk) </p>
+<img src="waguri.jpg" alt="waguri" width="400">
+</body>
+</html> 
